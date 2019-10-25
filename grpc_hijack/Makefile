@@ -38,7 +38,7 @@ run_server:
 
 run_client:
 	@echo "${YELLOW} = Attempting to run client ... ${DEFAULT}"
-	./out/grpc_client &> ${CLIENT_LOG} &
+	./out/grpc_client
 
 run: run_server run_client
 	@echo "${GREEN} === DONE === ${DEFAULT}"
