@@ -14,7 +14,7 @@ import (
 	"sync"
 	"time"
 
-	pb "github.com/CustomPoint/snippets/grpc_hijack/hijack"
+	pb "github.com/CustomPoint/grpc-tunnel/hijack"
 	"github.com/shiena/ansicolor"
 )
 

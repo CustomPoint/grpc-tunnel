@@ -17,7 +17,7 @@ import (
 	"github.com/creack/pty"
 	"github.com/gliderlabs/ssh"
 
-	pb "github.com/CustomPoint/snippets/grpc_hijack/hijack"
+	pb "github.com/CustomPoint/grpc-tunnel/hijack"
 )
 
 const (
