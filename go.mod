@@ -9,6 +9,6 @@ require (
 	github.com/gliderlabs/ssh v0.2.2
 	github.com/golang/protobuf v1.3.2
 	github.com/shiena/ansicolor v0.0.0-20151119151921-a422bbe96644
-	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+	golang.org/x/crypto v0.1.0
 	google.golang.org/grpc v1.24.0
 )
